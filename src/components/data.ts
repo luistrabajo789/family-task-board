@@ -30,12 +30,12 @@ export const initialData: ColumnData[] = [
       {
         id: "4",
         content: "Barrer casa completa - TARDE",
-        assignedTo: "Sara Zuleta",
+        assignedTo: "Michel Viera",
       },
       {
         id: "5",
         content: "Trapear casa completa - TARDE",
-        assignedTo: "Luis Miguel",
+        assignedTo: "Michel Viera",
       },
       {
         id: "6",
@@ -79,6 +79,11 @@ export const initialData: ColumnData[] = [
         id: "13",
         content: "Recoger perras noche - NOCHE",
         assignedTo: "Sara Zuleta",
+      },
+      {
+        id: "14",
+        content: "Lavar baño Miercoles",
+        assignedTo: "Luis Miguel",
       },
     ],
   },
