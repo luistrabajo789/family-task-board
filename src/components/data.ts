@@ -47,7 +47,7 @@ export const initialData: ColumnData[] = [
         content: "Lavar los platos Desayuno - MAÑANA",
         assignedTo: "Luis Miguel",
       },
- 
+
       {
         id: "8",
         content: "Hacer Almuerzo - MAÑANA",
@@ -64,7 +64,7 @@ export const initialData: ColumnData[] = [
         content: "Sacar la basura MARTES Y SABADO",
         assignedTo: "Luis Miguel",
       },
- 
+
       {
         id: "11",
         content: "Hacer Comida - TARDE",
@@ -82,6 +82,13 @@ export const initialData: ColumnData[] = [
       },
       {
         id: "14",
+        content:
+          "Preparar todo para mañana colegio (uniforme - tareas - utiles )",
+        assignedTo: "Sara Zuleta",
+      },
+
+      {
+        id: "15",
         content: "Lavar baño Miercoles",
         assignedTo: "Luis Miguel",
       },
